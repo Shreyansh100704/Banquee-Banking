@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Banquee-Banking/static/css/main.51d34449.css",
+    "main.js": "/Banquee-Banking/static/js/main.9f723526.js",
+    "static/js/787.119295dd.chunk.js": "/Banquee-Banking/static/js/787.119295dd.chunk.js",
+    "static/media/starblue.png": "/Banquee-Banking/static/media/starblue.a40c52297530386e32ff.png",
+    "static/media/q1.png": "/Banquee-Banking/static/media/q1.01f6ba829eda2f76e9e9.png",
+    "static/media/masker.png": "/Banquee-Banking/static/media/masker.490c10e1a5b4d225218c.png",
+    "static/media/q2.png": "/Banquee-Banking/static/media/q2.6a4e3bb5675cff265f43.png",
+    "static/media/q3.png": "/Banquee-Banking/static/media/q3.2b29e26402aa5b6aa1d4.png",
+    "static/media/Hero Image.png": "/Banquee-Banking/static/media/Hero Image.be1886d4e4aef7c9f519.png",
+    "static/media/secure.png": "/Banquee-Banking/static/media/secure.d342d61af87ad4ac0527.png",
+    "static/media/c1.png": "/Banquee-Banking/static/media/c1.91509d7513de2d6d3934.png",
+    "static/media/c2.png": "/Banquee-Banking/static/media/c2.d4792f255a785dde13da.png",
+    "static/media/bill.png": "/Banquee-Banking/static/media/bill.6fd2c063814493a7c3eb.png",
+    "static/media/5 1.png": "/Banquee-Banking/static/media/5 1.92c113cf5c2dde26a1d9.png",
+    "static/media/rebecca.png": "/Banquee-Banking/static/media/rebecca.a084c5c517655454a798.png",
+    "static/media/william.png": "/Banquee-Banking/static/media/william.2623c9d22e60fa73e626.png",
+    "static/media/9 1.png": "/Banquee-Banking/static/media/9 1.29c8fdf70f95d0512f7f.png",
+    "static/media/Star 4.png": "/Banquee-Banking/static/media/Star 4.0cf8a30b5095f78fbcfa.png",
+    "static/media/image 2.png": "/Banquee-Banking/static/media/image 2.c8f6addcc3ecf390da2b.png",
+    "index.html": "/Banquee-Banking/index.html",
+    "main.51d34449.css.map": "/Banquee-Banking/static/css/main.51d34449.css.map",
+    "main.9f723526.js.map": "/Banquee-Banking/static/js/main.9f723526.js.map",
+    "787.119295dd.chunk.js.map": "/Banquee-Banking/static/js/787.119295dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51d34449.css",
+    "static/js/main.9f723526.js"
+  ]
+}
